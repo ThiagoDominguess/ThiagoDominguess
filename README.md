@@ -1,4 +1,4 @@
-### <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Thiago Domingues</h1>
+### <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Thiago Domingues</h1>
 
 - 🔥 Desenvolvedor em constante aprendizado.
 
@@ -35,7 +35,7 @@
   
 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --!>
  
 </div>
 
